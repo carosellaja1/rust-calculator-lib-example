@@ -13,3 +13,4 @@ keywords = ["calculator", "math", "example"]
 categories = ["mathematics"]
 
 [dependencies]
+calculator-lib = "0.1"
