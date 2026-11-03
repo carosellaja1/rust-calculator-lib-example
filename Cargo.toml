@@ -2,13 +2,13 @@
 name = "calculator-lib"
 version = "0.1.0"
 edition = "2024"
-rust-version = "1.70.0"     # Minimum Rust version
+rust-version = "1.85.0"     # Minimum Rust version
 authors = ["Joe Carosella <carosellaja1@gmail.com>"]
 description = "A simple calculate library for learning Rust project setup"
 documentation = "https://docs.rs/calculator-lib"
 homepage = "https://github.com/carosellaja1/calculator-lib"
 repository = "https://github.com/carosellaja1/calculator-lib"
-readme = README.md
+readme = "README.md"
 keywords = ["calculator", "math", "example"]
 categories = ["mathematics"]
 
